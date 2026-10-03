@@ -1,0 +1,2 @@
+{ "_comment": "Backgrounds for the vision poster. First entry is the default; add a file here and it appears in the picker.",
+  "_shared": [ { "file": "neutral-1.png", "label": "Ember" }, { "file": "leaf.jpg", "label": "Leaf" }, { "file": "neutral-2.png", "label": "Glow" }, { "file": "neutral-3.png", "label": "Onyx" } ] }
